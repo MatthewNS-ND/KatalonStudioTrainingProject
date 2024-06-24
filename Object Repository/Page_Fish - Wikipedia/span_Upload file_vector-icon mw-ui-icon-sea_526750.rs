@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Upload file_vector-icon mw-ui-icon-sea_526750</name>
+   <tag></tag>
+   <elementGuidId>637587fb-e0b7-442b-8291-718f9256f8d2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='p-search']/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.vector-icon.mw-ui-icon-search.mw-ui-icon-wikimedia-search</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3f140e1f-8ee4-4313-b08c-9de791fddc10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search</value>
+      <webElementGuid>eb2473ec-c012-4ae4-9564-3115e39db255</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-search&quot;)/a[@class=&quot;cdx-button cdx-button--fake-button cdx-button--fake-button--enabled cdx-button--weight-quiet cdx-button--icon-only search-toggle&quot;]/span[@class=&quot;vector-icon mw-ui-icon-search mw-ui-icon-wikimedia-search&quot;]</value>
+      <webElementGuid>45ad5d06-1973-4784-8f0f-47d306f16c19</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='p-search']/a/span</value>
+      <webElementGuid>172da05e-ffa3-4b36-bd77-31d48923e939</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/a/span</value>
+      <webElementGuid>8ec13f2c-5035-4aa6-a6b1-7e91237a40ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

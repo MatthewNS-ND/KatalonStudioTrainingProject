@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h3_Fish</name>
+   <tag></tag>
+   <elementGuidId>5b389d83-348a-49d3-b86f-c03e99faec11</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kp-wp-tab-overview']/div[3]/div/div/div/div/div/div/div/div/span/a/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.kb0PBd.cvP2Ce.ieodic.jGGQ5e > div.yuRUbf > div > span > a > h3.LC20lb.MBeuO.DKV0Md</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h3</value>
+      <webElementGuid>ce52986b-196b-457a-a51f-f491e86cb7da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>LC20lb MBeuO DKV0Md</value>
+      <webElementGuid>0e98b5b3-5654-45bf-859a-62884ec7cb72</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Fish</value>
+      <webElementGuid>5df2a86f-d742-4639-9efc-f394ab64387a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kp-wp-tab-cont-overview&quot;)/div[@class=&quot;xDKLO&quot;]/div[1]/div[1]/div[@id=&quot;kp-wp-tab-overview&quot;]/div[@class=&quot;TzHB6b cLjAic K7khPe&quot;]/div[1]/div[@class=&quot;sATSHe&quot;]/div[1]/div[@class=&quot;g Ww4FFb vt6azd tF2Cxc asEBEc&quot;]/div[@class=&quot;srKDX cvP2Ce&quot;]/div[@class=&quot;kb0PBd cvP2Ce ieodic jGGQ5e&quot;]/div[@class=&quot;yuRUbf&quot;]/div[1]/span[1]/a[1]/h3[@class=&quot;LC20lb MBeuO DKV0Md&quot;]</value>
+      <webElementGuid>44ca3e82-7dad-4fe5-a28c-9e60b1a7c7db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kp-wp-tab-overview']/div[3]/div/div/div/div/div/div/div/div/span/a/h3</value>
+      <webElementGuid>9b56673d-a75c-403c-bd95-85d2620073d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masukan'])[1]/following::h3[1]</value>
+      <webElementGuid>97711d70-6d3a-4d25-b1e7-ec76b8907e74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Is fish an animal or pet?'])[2]/following::h3[1]</value>
+      <webElementGuid>c9b02674-16bc-44fc-9f44-756586598f7b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wikipedia'])[3]/preceding::h3[1]</value>
+      <webElementGuid>39feea5b-c4f4-45c2-96fa-ec87f901d064</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Fish']/parent::*</value>
+      <webElementGuid>c21d0673-8a5a-471c-b9ba-4dc8e377dae7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div/div/div/span/a/h3</value>
+      <webElementGuid>8958fb98-922c-496a-8b90-4359748cfe82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h3[(text() = 'Fish' or . = 'Fish')]</value>
+      <webElementGuid>b89bc4d9-0387-4a9e-b3f3-54beb860df58</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
